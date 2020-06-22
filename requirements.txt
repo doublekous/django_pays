@@ -1,0 +1,16 @@
+alipay-sdk-python==3.3.202
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+colorama==0.4.3
+cryptography==2.9.2
+Django==2.0
+idna==2.9
+Pillow==5.4.1
+pycparser==2.20
+pyOpenSSL==19.1.0
+pytz==2020.1
+qrcode==6.1
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.9
