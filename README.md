@@ -16,5 +16,5 @@
 
 ## 具体各支付文档
 - django接入微信小程序支付请点[我](http://123.56.7.28/article/2020/3/24/4.html)
-- django接入微信native支付请点[我]http://123.56.7.28/article/2020/3/24/3.html)
+- django接入微信native支付请点[我](http://123.56.7.28/article/2020/3/24/3.html)
 - django接入支付宝支付请点[我](http://123.56.7.28/article/2020/3/24/4.html)
