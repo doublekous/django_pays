@@ -1,4 +1,4 @@
-## 这个demo集成了在django框架开发中调用pc端调用支付宝官方sdk接口，微信native模式支付接口，中国银联网关支付接口
+## 这个demo集成了在django框架开发中pc端调用支付宝官方sdk接口，微信native模式支付接口，中国银联网关支付接口
 
 ## 提前说明，避免踩坑
  - 如果是windows系统接入支付宝提供的官方sdk库alipay-sdk-python 会报错
