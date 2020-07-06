@@ -40,7 +40,7 @@ class UniBackView(View):
 
 
 # 充值成功后后台回调（银联）
-# 根据也无需求自行更改
+
 class UniNotifyView(View):
     def post(self, request):
         params = request.POST.dict()
